@@ -1,0 +1,13 @@
+C:\ErikDev\syntaxAndStucture\syntaxAndStucture\bin\Debug\netcoreapp3.1\syntaxAndStucture.exe
+C:\ErikDev\syntaxAndStucture\syntaxAndStucture\bin\Debug\netcoreapp3.1\syntaxAndStucture.deps.json
+C:\ErikDev\syntaxAndStucture\syntaxAndStucture\bin\Debug\netcoreapp3.1\syntaxAndStucture.runtimeconfig.json
+C:\ErikDev\syntaxAndStucture\syntaxAndStucture\bin\Debug\netcoreapp3.1\syntaxAndStucture.runtimeconfig.dev.json
+C:\ErikDev\syntaxAndStucture\syntaxAndStucture\bin\Debug\netcoreapp3.1\syntaxAndStucture.dll
+C:\ErikDev\syntaxAndStucture\syntaxAndStucture\bin\Debug\netcoreapp3.1\syntaxAndStucture.pdb
+C:\ErikDev\syntaxAndStucture\syntaxAndStucture\obj\Debug\netcoreapp3.1\syntaxAndStucture.csprojAssemblyReference.cache
+C:\ErikDev\syntaxAndStucture\syntaxAndStucture\obj\Debug\netcoreapp3.1\syntaxAndStucture.AssemblyInfoInputs.cache
+C:\ErikDev\syntaxAndStucture\syntaxAndStucture\obj\Debug\netcoreapp3.1\syntaxAndStucture.AssemblyInfo.cs
+C:\ErikDev\syntaxAndStucture\syntaxAndStucture\obj\Debug\netcoreapp3.1\syntaxAndStucture.csproj.CoreCompileInputs.cache
+C:\ErikDev\syntaxAndStucture\syntaxAndStucture\obj\Debug\netcoreapp3.1\syntaxAndStucture.dll
+C:\ErikDev\syntaxAndStucture\syntaxAndStucture\obj\Debug\netcoreapp3.1\syntaxAndStucture.pdb
+C:\ErikDev\syntaxAndStucture\syntaxAndStucture\obj\Debug\netcoreapp3.1\syntaxAndStucture.genruntimeconfig.cache
